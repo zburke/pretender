@@ -1,5 +1,8 @@
 # Pretender Changelog
 
+## 2.1.2
+  * restrict [fake-xml-http-request](https://github.com/pretenderjs/FakeXMLHttpRequest) to ~2.0.0, preventing inadvertent breaking changes in v2.1.1 from leaking through
+
 ## 2.1.1
   * cleanup readme and package.json
 
